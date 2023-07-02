@@ -39,7 +39,7 @@ MultiTaskLinearClsHead is mainly used to implement multitask classification in H
 <summary>Supported classification headers</summary>
 
 - [x] [ClsHead](https://github.com/LLY-Bistu/MultiRamanSystem/tree/main/models/heads/cls_head.py)
-- [x] [MultiLinearHead](https://github.com/LLY-Bistu/MultiRamanSystem/tree/main/models/heads/multi_task_linear_head.py)
+- [x] [MultiTaskLinearClsHead](https://github.com/LLY-Bistu/MultiRamanSystem/tree/main/models/heads/multi_task_linear_head.py)
 
 </details>
 
