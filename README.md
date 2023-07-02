@@ -17,8 +17,8 @@ Backbone includes ResNet50 and VGG, and users load the corresponding models thro
 <details open>
 <summary>Supported backbone network</summary>
 
-- [x] [ResNet](https://github.com/LLY-Bistu/MultiRamanSystem/models/backbons/resnet50.py)
-- [x] [VGG](https://github.com/LLY-Bistu/MultiRamanSystem/models/backbons/vgg.py)
+- [x] [ResNet](https://github.com/LLY-Bistu/MultiRamanSystem/models/backbones/resnet50.py)
+- [x] [VGG](https://github.com/LLY-Bistu/MultiRamanSystem/models/backbones/vgg.py)
 
 </details>
 
