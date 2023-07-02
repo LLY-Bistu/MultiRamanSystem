@@ -17,8 +17,8 @@ Backbone includes ResNet50 and VGG, and users load the corresponding models thro
 <details open>
 <summary>Supported backbone network</summary>
 
-- [x] [ResNet](https://github.com/LLY-Bistu/Multi-RamanSystem/models/backbons/resnet.py)
-- [x] [VGG](https://github.com/LLY-Bistu/Multi-RamanSystem/models/backbons/vgg.py)
+- [x] [ResNet](https://github.com/LLY-Bistu/MultiRamanSystem/models/backbons/resnet.py)
+- [x] [VGG](https://github.com/LLY-Bistu/MultiRamanSystem/models/backbons/vgg.py)
 
 </details>
 
@@ -28,7 +28,7 @@ Neck is mainly Global Average Pooling.
 <details open>
 <summary>Neck network of support</summary>
 
-- [x] [Global Average Pooling](https://github.com/LLY-Bistu/Multi-RamanSystem/models/necks/gap.py)
+- [x] [Global Average Pooling](https://github.com/LLY-Bistu/MultiRamanSystem/models/necks/gap.py)
 
 </details>
 
@@ -38,8 +38,8 @@ MultiTaskLinearClsHead is mainly used to implement multitask classification in H
 <details open>
 <summary>Supported classification headers</summary>
 
-- [x] [ClsHead](https://github.com/LLY-Bistu/Multi-RamanSystem/models/heads/cls_head.py)
-- [x] [MultiLinearHead](https://github.com/LLY-Bistu/Multi-RamanSystem/models/heads/multi_task_linear_head.py)
+- [x] [ClsHead](https://github.com/LLY-Bistu/MultiRamanSystem/models/heads/cls_head.py)
+- [x] [MultiLinearHead](https://github.com/LLY-Bistu/MultiRamanSystem/models/heads/multi_task_linear_head.py)
 
 </details>
 
