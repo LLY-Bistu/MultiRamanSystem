@@ -45,4 +45,6 @@ MultiTaskLinearClsHead is mainly used to implement multitask classification in H
 
 ## Result
 The corresponding results of the modified multi-output network model based on ResNet50 and VGG are shown in the following figure:
+Table 1: For MTN-ResNet50, MTN-VGG16, and the ability of SVM algorithms to identify T-staging, N-staging, and histologic
+grading
 ![img.png](imgs/result.png)
